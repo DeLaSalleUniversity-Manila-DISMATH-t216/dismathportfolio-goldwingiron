@@ -6,5 +6,5 @@
 - We also learned about Propositional Variables (Not,And,Or,xOr,If then,Iff), their symbols, and how to use them in the Truth Table
 
 ##Week 2
--I learned about the Logical Equivalences and Proof by Truth Table which are:
- 
+-I learned about the Logical Equivalences and Proof by Truth Table which are
+

@@ -7,14 +7,4 @@
 
 ##Week 2
 -I learned about the Logical Equivalences and Proof by Truth Table which are:
- -Identity Laws
- -Domination Laws
- -Negation Laws
- -Double Negation Laws
- -Idempotent Laws
- -Commutative Laws
- -Associative Laws
- -Distributive Laws
- -De Morgan's Laws
- -Absorption Laws
- -Equivalence
+ 

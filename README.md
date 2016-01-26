@@ -18,4 +18,19 @@
  - De Morgan's Laws
  - Absorption Laws
  - Equivalence
+- I also had a hard time arguing and proving that Superman doesn't exist
 
+##Week 3
+- I learned about Predicate Logic that teaches us to tackle an argument not as a whole but in terms of subject and predicate
+- We were also introduced to Quantifiers, Existential Quantifier ("There Exist") and Universal Quantifier ("For All"), to simplify general arguments 
+- We also learned about the Rules of Inference which are:
+ - Modus Ponens 
+ - Modus Tollens 
+ - Hypothetical Syllogism
+ - Disjunctive Syllogism
+ - Addition
+ - Simplification
+ - Conjunction
+ - Resolution
+- We also found out its basic components which are Argument, Validity, and Pattern
+- It also must have a Tautology which must be true in every argument

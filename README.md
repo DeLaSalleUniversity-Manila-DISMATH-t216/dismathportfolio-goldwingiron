@@ -34,3 +34,14 @@
  - Resolution
 - We also found out its basic components which are Argument, Validity, and Pattern
 - It also must have a Tautology which must be true in every argument
+
+# Week 4
+- We were introduced to Proofs and its following methods:
+ - Direct Proof
+ - Proof by Contraposition
+ - Vacuous and Trivial Proof
+ - Proof by Contradiction
+ - Proof by Equivalence
+- We also learned about Mathematical Induction which proves mathematical theorems
+- We were also introduced to Base and Recursive Functions
+- We were also taught about Recursive Algorithms

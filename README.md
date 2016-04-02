@@ -76,11 +76,11 @@
 
 ##Week 9
 - We were given time to study most of the simple and fundamental algorithms so we can fully understand the concepts. These algorithms were the Linear Search, Binary Search, Bubble Sort, Insertion Sort, and the Greedy Change Algorithm.
- -*Linear Search* - finds a particular value in a list that checks each element in sequence until the desired element is found
- -*Binary Search* - compares the middle values of a list then repeated until the desired output is found
- -*Bubble Sort* - compares the first two elements then interchanging them if they are in the incorrect order
- -*Insertion Sort* - compares the second element with the first and inserts it before the first element if it is less, otherwise inserted after
- -*Insertion Sort* - chooses the number of coins per denomination using the least total number of coins
+ - *Linear Search* - finds a particular value in a list that checks each element in sequence until the desired element is found
+ - *Binary Search* - compares the middle values of a list then repeated until the desired output is found
+ - *Bubble Sort* - compares the first two elements then interchanging them if they are in the incorrect order
+ - *Insertion Sort* - compares the second element with the first and inserts it before the first element if it is less, otherwise inserted after
+ - *Insertion Sort* - chooses the number of coins per denomination using the least total number of coins
 
 ##Week 10
 - The growth of functions and time complexity was discussed to us this week

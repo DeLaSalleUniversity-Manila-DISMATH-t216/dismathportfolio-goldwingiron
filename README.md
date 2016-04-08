@@ -87,4 +87,30 @@
   - This topic is about finding the number of comparisons a function/algorithm/program makes and the time it takes before getting the output.
   - This topic is important because it gives programmers an idea their program will do its job.
 - The Big-O notation represents the upperbound function of a program, while the big-omega represents the lower bound, and big-theta represents the upper and lower bounds. 
+ 
+##Week 11
+ - HOLY WEEK
+ 
+##Week12
+- The concept of graphs were taught to us this week (which is the same week as quiz 3)
+- Handshake theorem is used to know how many edges are in a graph
+- Euler Path, Euler Circuit is used to describe a shape where you can pass through each of its edge atleast once.
+- Hamilton Path, Hamilton Circuit is used to describe a shape where you can pass through each of its vertex atleast once.
+- Matrices of a graph and Isomorphism of a graph was also taught.
+
+##Week13
+- We were taught more about graphs like the color coding, homeomorphism
+- Trees, children and leaves were also taught
+- States, transitions and loops were introduced.
+
+
+
+ 
+
+
+
+
+
+
+
 
